@@ -135,14 +135,6 @@ python ImpactAPIcalls.py --start-row 101 --end-row 200
 # Continue until complete
 ```
 
-## Cost Considerations
-
-- **GPT-4o**: Current pricing - Input: $2.50 per million tokens, Output: $10.00 per million tokens
-- **GPT-5**: Input: $1.25 per million tokens, Output: $10.00 per million tokens
-- Each response typically uses 600-800 tokens (including 10 few-shot examples)
-- **Current estimate with GPT-4o**: ~$7-8 for full dataset (much more affordable!)
-- **Current estimate with GPT-5**: ~$5ish for full dataset
-
 ## Troubleshooting
 
 ### Common Issues
@@ -155,13 +147,6 @@ python ImpactAPIcalls.py --start-row 101 --end-row 200
 ### Logs
 
 Check `sentiment_analysis.log` for detailed execution information and error messages.
-
-## Performance Tips
-
-- Use GPT-3.5-turbo for cost-sensitive applications
-- Process in batches of 100-200 respondents
-- Monitor API usage and costs
-- Consider running during off-peak hours for better API performance
 
 ## License
 
