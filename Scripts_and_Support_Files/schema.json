@@ -1,0 +1,37 @@
+{
+    "name": "impact_classifications",
+    "strict": "true",
+    "schema": {
+        "type": "object",
+        "uuid": {
+            "type": "string"
+        },
+        "OETopic_labels": {
+            "type": "array",
+            "items": {
+                "type": "integer"
+            }
+        },
+        "OETopMD_labels": {
+            "type": "array",
+            "items": {
+                "type": "integer"
+            }
+        },
+        "OEUniqueMD_labels": {
+            "type": "array",
+            "items": {
+                "type": "integer"
+            }
+        },
+        "s4_present_any": {
+            "type": "boolean"
+        },
+        "s4_confidence": {
+            "type": "integer"
+        },
+        "s4_source_cols": {
+            "type": "string"
+        }
+    }
+}

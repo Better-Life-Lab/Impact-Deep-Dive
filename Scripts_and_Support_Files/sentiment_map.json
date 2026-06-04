@@ -1,0 +1,65 @@
+{
+  "4": {
+    "name": "teach_me",
+    "definition": "I believe this could teach me something",
+    "paraphrases": [
+      "I could learn from this",
+      "This would help me understand",
+      "I want to see how others handle it",
+      "It would show me what to do",
+      "It could help me fix a problem in my life"
+    ]
+  },
+  "5": {
+    "name": "teach_others",
+    "definition": "I believe this could teach other people something.",
+    "paraphrases": [
+      "people could learn from this",
+      "it would teach others",
+      "this could show viewers how to handle it",
+      "it could inform the public"
+    ]
+  },
+  "6": {
+    "name": "shift_my_feelings",
+    "definition": "It would make me feel more understood and less alone.",
+    "paraphrases": [
+      "I relate to this",
+      "it hits close to home",
+      "this resonates with me",
+      "this would make me feel seen",
+      "this matters to me personally"
+    ]
+  },
+  "7": {
+    "name": "shift_others_feelings",
+    "definition": "It could change how other people feel.",
+    "paraphrases": [
+      "Many people relate to this",
+      "It would resonate with people",
+      "many viewers would connect with it",
+      "it could help people understand an experience"
+    ]
+  },
+  "8": {
+    "name": "societal_change",
+    "definition": "This could change culture, politics, or society.",
+    "paraphrases": [
+      "advocating for policies",
+      "hold government/companies accountable",
+      "start cultural conversations",
+      "lead to people taking action"
+    ]
+  },
+  "9": {
+    "name": "authenticity",
+    "definition": "This is a more authentic depiction.",
+    "paraphrases": [
+      "this is more accurate",
+      "current shows don't include this enough",
+      "this reflects what’s happening in society",
+      "it shows real issues people face",
+      "it’s an honest depiction of reality"
+    ]
+  }
+}

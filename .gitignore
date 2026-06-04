@@ -1,0 +1,10 @@
+# assorted helpers and compiles
+*.pyc
+*.ini
+
+# raw qualitative data
+Qual_Data/
+Raw_Results/
+
+# old files
+Archive/
